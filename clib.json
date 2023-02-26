@@ -1,8 +1,8 @@
 {
-  "name": "<project>",
+  "name": "lib<project>",
   "version": "0.0.1",
   "author": "Matthew Zito",
-  "repo": "exbotanical/<project>",
+  "repo": "exbotanical/lib<project>",
   "license": "MIT",
   "description": "",
   "keywords": [
