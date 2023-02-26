@@ -1,0 +1,17 @@
+{
+  "name": "<project>",
+  "version": "0.0.1",
+  "author": "Matthew Zito",
+  "repo": "exbotanical/<project>",
+  "license": "MIT",
+  "description": "",
+  "keywords": [
+
+  ],
+  "src": [
+    "src/lib<project>.h"
+  ],
+  "development": {
+    "thlorenz/tap.c": "*"
+  }
+}
