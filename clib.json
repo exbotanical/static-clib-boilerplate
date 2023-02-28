@@ -9,7 +9,7 @@
 
   ],
   "src": [
-    "src/lib<project>.h"
+    "include/lib<project>.h"
   ],
   "development": {
     "thlorenz/tap.c": "*"
